@@ -1,0 +1,129 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+h1{
+    text-align: center;
+}
+.center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+body{
+    background-color: #ace7ff;
+}
+#login{
+    max-width: 25%;
+    height: auto;
+    padding: 20px 20px 20px 20px;
+    margin: auto auto auto auto;
+    border-radius: 20px;
+    border: 1px solid;
+    background-color: white;
+    text-align: left;
+}
+#edusuario{
+    max-width: 25%;
+    height: auto;
+    padding: 20px 20px 20px 20px;
+    margin: auto auto auto auto;
+    border-radius: 20px;
+    border: 1px solid;
+    background-color: white;
+    text-align: left;
+}
+#ssenha{
+    max-width: 25%;
+    height: auto;
+    padding: 20px 20px 20px 20px;
+    margin: auto auto auto auto;
+    border-radius: 20px;
+    border: 1px solid;
+    background-color: white;
+    text-align: left;
+}
+#ssegsenha{
+    max-width: 25%;
+    height: auto;
+    padding: 20px 20px 20px 20px;
+    margin: auto auto auto auto;
+    border-radius: 20px;
+    border: 1px solid;
+    background-color: white;
+    text-align: left;
+}
+#usuario{
+    max-width: 25%;
+    height: auto;
+    padding: 20px 20px 20px 20px;
+    margin: auto auto auto auto;
+    border-radius: 20px;
+    border: 1px solid;
+    background-color: white;
+    text-align: left;
+}
+#cadastro{
+    max-width: 25%;
+    height: auto;
+    padding: 20px 20px 20px 20px;
+    margin: auto auto auto auto;
+    border-radius: 20px;
+    border: 1px solid;
+    background-color: white;
+    text-align: left;
+}
+#lista{
+    max-width: 35%;
+    width: auto;
+    height: auto;
+    padding: 20px 20px 20px 20px;
+    margin: 0 auto;
+    border-radius: 20px;
+    border: 1px solid;
+    background-color: white;
+    text-align: left;
+}
+#regcarro{
+    max-width: 25%;
+    height: auto;
+    padding: 20px 20px 20px 20px;
+    margin: auto auto auto auto;
+    border-radius: 20px;
+    border: 1px solid;
+    background-color: white;
+    text-align: left;
+}
+#regatualizar{
+    max-width: 25%;
+    height: auto;
+    padding: 20px 20px 20px 20px;
+    margin: auto auto auto auto;
+    border-radius: 20px;
+    border: 1px solid;
+    background-color: white;
+    text-align: left;
+}
+li {
+    /*list-style-image: url('seta.png');*/
+    margin: 0;
+	list-style: none;
+	background-image: url("seta.png");
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: 40px;
+    text-align: center;
+
+}
+#aba {
+    width: auto;
+    height: auto;
+    padding: 10px 10px 10px 10px;
+    margin: auto auto auto auto;
+    border-radius: 5px;
+    border: 1px solid;
+    background-color: white;
+    text-align: left;
+    float: right;
+}
